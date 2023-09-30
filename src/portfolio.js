@@ -11,7 +11,7 @@ const settings = {
 const greeting = {
   title: "Hello.",
   title2: "Hrishi",
-  logo_name: "hrishi.p()",
+  logo_name: "Naveen Peddi",
   nickname: "hrishi1999 / picleric",
   full_name: "Hrishi Patel",
   subTitle:
