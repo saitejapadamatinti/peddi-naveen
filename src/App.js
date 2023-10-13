@@ -24,7 +24,7 @@ function App() {
   return (
     <ThemeProvider theme={themes[theme]}>
       <>
-        {/* <GlobalStyles />
+        <GlobalStyles />
         <div>
           {useCursor ? (
             <CursorProvider
@@ -37,10 +37,10 @@ function App() {
           ) : (
             <Main theme={themes[theme]} setTheme={setTheme} />
           )}
-        </div> */}
-        <div>
-          <h1>Page is Under updation</h1>
         </div>
+        {/* <div>
+          <h1>Page is Under updation</h1>
+        </div> */}
       </>
     </ThemeProvider>
   );

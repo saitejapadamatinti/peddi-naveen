@@ -10,32 +10,27 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
+  title2: "Naveen",
   logo_name: "Naveen Peddi",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
-  subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+  nickname: "Naveen",
+  full_name: "Naveen Peddi",
+  subTitle: "UI/UX Designer",
   resumeLink:
     "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+  mail: "peddinaveen2000@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
-  gitlab: " ",
-  facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  github: "",
+  linkedin: "https://www.linkedin.com/in/peddi-naveen-89479a230",
+  gmail: "peddinaveen2000@gmail.com",
 };
 
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "UI/UI Designer",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS and Angular",
@@ -322,11 +317,11 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Dalhousie University",
-      subtitle: "Masters in Applied Computer Science",
+      title: "Creative Multimedia College of Fine Arts",
+      subtitle: "BA Visual Arts (Animation & VFX) 2021",
       logo_path: "dal.png",
       alt_name: "DAL",
-      duration: "2022 - 2023",
+      duration: "2018 - 2021",
       descriptions: [
         "⚡ Studied Advanced Software Development Concepts, Data Management & Warehousing",
         "⚡ Learn Advanced Topics in Cloud Computing, Cloud Architecture along with Serverless Computing",
@@ -335,11 +330,24 @@ const degrees = {
       website_link: "https://www.dal.ca/",
     },
     {
-      title: "SAL Engineering and Technical Institute",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Sri Gayatri Junior College",
+      subtitle: "Intermediate (MPC) 2018",
       logo_path: "sal.png",
       alt_name: "SETI",
-      duration: "2017 - 2021",
+      duration: "2016 - 2018",
+      descriptions: [
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
+        "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
+      ],
+      website_link: "https://www.sal.edu.in/",
+    },
+    {
+      title: "Krishnaveni High School",
+      subtitle: "SSC 2016",
+      logo_path: "sal.png",
+      alt_name: "SETI",
+      duration: "2015 - 2016",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
