@@ -67,7 +67,7 @@ function DegreeCard(props) {
 
   return (
     <div className="degree-card">
-      <Flip left duration={2000}>
+      {/* <Flip left duration={2000}>
         <div {...style_img}>
           <img
             style={{
@@ -79,7 +79,7 @@ function DegreeCard(props) {
             alt={degree.alt_name}
           />
         </div>
-      </Flip>
+      </Flip> */}
       <Fade right duration={2000} distance="40px">
         <div {...card_body}>
           <div
@@ -101,7 +101,7 @@ function DegreeCard(props) {
             </div>
           </div>
           <div className="body-content">
-            {degree.descriptions.map((sentence) => {
+            {/* {degree.descriptions.map((sentence) => {
               return (
                 <p
                   key={sentence}
@@ -111,7 +111,7 @@ function DegreeCard(props) {
                   {sentence}
                 </p>
               );
-            })}
+            })} */}
             <a
               href={degree.website_link}
               target="_blank"
