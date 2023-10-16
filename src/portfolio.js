@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Naveen Peddi",
   subTitle: "UI/UX Designer",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google.com/file/d/1c3EzfvsBakILRPFfwO0f1-axyrLjuk-_/view?usp=sharing",
   mail: "peddinaveen2000@gmail.com",
 };
 
