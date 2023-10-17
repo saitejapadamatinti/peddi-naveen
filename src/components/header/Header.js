@@ -146,9 +146,11 @@ function Header(props) {
                 Journalify
               </a>
             </li> */}
-            <button {...styles} onClick={changeTheme}>
-              {icon}
-            </button>
+            <li>
+              <button {...styles} onClick={changeTheme}>
+                {icon}
+              </button>
+            </li>
           </ul>
         </header>
       </div>

@@ -33,8 +33,12 @@ const skills = {
       title: "UI/UI Designer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Designing responsive website front end using Figma",
-        "⚡ Designing responsive website front end using Figma",
+        "⚡ Proficiency in creating visually appealing website layouts, incorporating elements like color, typography, and imagery.",
+        "⚡ Ability to design websites that adapt seamlessly to various screen sizes and devices, ensuring a consistent user experience.",
+        "⚡ Skill in selecting and using appropriate fonts, font sizes, and line spacing for readability and aesthetics.",
+        "⚡ Understanding of color psychology, harmony, and accessibility to create a visually pleasing and inclusive website..",
+        "⚡ Ability to design or choose icons that enhance user interactions and convey information effectively.",
+        "⚡ Conducting user research to gain insights into user behavior, needs, and preferences, using methods such as surveys, interviews, and usability testing.",
       ],
       // softwareSkills: [
       //   {
@@ -339,7 +343,7 @@ const experience = {
           company: "Stylosoft LLP",
           company_url: "https://www.canada.ca/en/revenue-agency.html",
           logo_path: "cra.png",
-          duration: "May 2023 - Ongoing",
+          duration: "May 2022 - Ongoing",
           location: "Hyderabad, Telangana",
           description:
             "An experienced UI/UX professional with expertise in designing strategies Seeking to enhance creative and technical skills, embracing new technologies, designtrends, brainstorming sessions, and working eectively with clients and creative teams",
