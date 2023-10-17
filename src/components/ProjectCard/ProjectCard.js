@@ -41,9 +41,9 @@ export default function ProjectCard({ repo: project, theme }) {
           <p className="repo-description" style={{ color: theme.text }}>
             {project.description}
           </p>
-          <div className="repo-details">
+          {/* <div className="repo-details">
             <ProjectLanguages logos={project.languages} />
-          </div>
+          </div> */}
         </div>
       </Fade>
     </div>

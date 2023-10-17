@@ -22,7 +22,7 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "",
+  behance: "https://www.behance.net/peddinaveen1",
   linkedin: "https://www.linkedin.com/in/peddi-naveen-89479a230",
   gmail: "peddinaveen2000@gmail.com",
 };
@@ -249,11 +249,20 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Google UX Design",
+      subtitle: "Google UX Design",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/professional-cert/98ATQ23D9KMY",
+      alt_name: "Google UX Design",
+      color_code: "#ffc475",
+    },
+    {
       title: "Conduct UX Research and Test Early Concepts",
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
+        "https://www.coursera.org/account/accomplishments/certificate/NBRN87XRCZU9",
       alt_name: "Google UX Design",
       color_code: "#ffc475",
     },
@@ -262,7 +271,7 @@ const certifications = {
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
+        "https://www.coursera.org/account/accomplishments/certificate/Y52TDGVCWQS3",
       alt_name: "AWS",
       color_code: "#ffc475",
     },
@@ -270,7 +279,8 @@ const certifications = {
       title: "Build Dynamic User Interfaces (UI) for Websites",
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
-      certificate_link: " ",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/PZQLF8EAVQC2",
       alt_name: "Google",
       color_code: "#ffc475",
     },
@@ -278,7 +288,8 @@ const certifications = {
       title: "Design a User Experience for Social Good & Prepare for Jobs",
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
-      certificate_link: " ",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/MQ2AZ636XJ9C",
       alt_name: "Google",
       color_code: "#1e70c1",
     },
@@ -286,7 +297,8 @@ const certifications = {
       title: "Foundations of User Experience (UX) Design",
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
-      certificate_link: " ",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/4PPWD57P86BQ",
       alt_name: "Google",
       color_code: "#ffbfae",
     },
@@ -294,7 +306,8 @@ const certifications = {
       title: "Start the UX Design Process: Empathize, Define, and Ideate",
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
-      certificate_link: " ",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/2RH2C2HRYKST",
       alt_name: "Google",
       color_code: "#b190b0",
     },
@@ -303,7 +316,7 @@ const certifications = {
       subtitle: "Google UX Design",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+        "https://www.coursera.org/account/accomplishments/certificate/HT9J8P3XRW2D",
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
@@ -341,7 +354,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create UI/UX projects. Below are some of my projects. Note that not all of the mentioned projects are on Behance.",
   avatar_image_path: "projects_image.svg",
 };
 

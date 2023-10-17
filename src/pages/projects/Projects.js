@@ -55,11 +55,11 @@ function Projects(props) {
       <a
         {...styles}
         className="general-btn"
-        href={socialMediaLinks.github}
+        href={socialMediaLinks.behance}
         target="_blank"
         rel="noopener noreferrer"
       >
-        More Projects (Github)
+        More Projects (Behance)
       </a>
       <br />
       <br />

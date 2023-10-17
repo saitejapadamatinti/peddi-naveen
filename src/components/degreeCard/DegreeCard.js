@@ -118,7 +118,7 @@ function DegreeCard(props) {
               rel="noopener noreferrer"
               style={{ textDecoration: "none", textAlign: "center" }}
             >
-              <p
+              {/* <p
                 {...button_visit}
                 style={{
                   marginRight: "23px",
@@ -128,7 +128,7 @@ function DegreeCard(props) {
                 }}
               >
                 Visit Website
-              </p>
+              </p> */}
             </a>
           </div>
         </div>
