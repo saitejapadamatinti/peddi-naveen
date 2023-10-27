@@ -77,7 +77,7 @@ function Header(props) {
           <label className="menu-icon" htmlFor="menu-btn">
             <span className="navicon"></span>
           </label>
-          <ul className="menu">
+          <ul className="menu header-mobile">
             <li>
               <NavLink
                 className="homei"

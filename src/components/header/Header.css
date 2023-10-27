@@ -216,6 +216,11 @@
     line-height: normal;
   }
 
+  .header-mobile {
+    display: flex;
+    flex-direction: column;
+  }
+
   .header {
     padding-top: 10px;
     text-align: center;
