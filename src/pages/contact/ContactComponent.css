@@ -138,6 +138,7 @@
 }
 
 .general-btn {
+  text-align: center;
   text-decoration: none;
   color: rgba(255, 255, 255, 1);
   padding: 15px 15px;
