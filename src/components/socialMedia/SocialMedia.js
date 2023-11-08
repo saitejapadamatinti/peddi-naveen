@@ -23,7 +23,7 @@ export default function socialMedia() {
         <i className="fab fa-linkedin-in"></i>
         <span></span>
       </a>
-      <a
+      {/* <a
         href={`mailto:${socialMediaLinks.gmail}`}
         className="icon-button google"
         target="_blank"
@@ -31,7 +31,7 @@ export default function socialMedia() {
       >
         <i className="fab fa-google"></i>
         <span></span>
-      </a>
+      </a> */}
       {/* <a
         href={socialMediaLinks.twitter}
         className="icon-button twitter"
@@ -41,13 +41,22 @@ export default function socialMedia() {
         <i className="fab fa-twitter"></i>
         <span></span>
       </a> */}
-      <a
+      {/* <a
         href={socialMediaLinks.instagram}
         className="icon-button instagram"
         target="_blank"
         rel="noopener noreferrer"
       >
         <i className="fab fa-instagram"></i>
+        <span></span>
+      </a> */}
+      <a
+        href="https://www.behance.net/peddinaveen1"
+        className="icon-button instagram"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i className="fab fa-behance"></i>
         <span></span>
       </a>
     </div>

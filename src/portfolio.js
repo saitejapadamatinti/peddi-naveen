@@ -25,6 +25,7 @@ const socialMediaLinks = {
   behance: "https://www.behance.net/peddinaveen1",
   linkedin: "https://www.linkedin.com/in/peddi-naveen-89479a230",
   gmail: "peddinaveen2000@gmail.com",
+  behance: "",
 };
 
 const skills = {

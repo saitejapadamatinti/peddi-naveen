@@ -55,7 +55,7 @@ function Projects(props) {
       <a
         {...styles}
         className="general-btn"
-        href={socialMediaLinks.behance}
+        href="https://www.behance.net/peddinaveen1"
         target="_blank"
         rel="noopener noreferrer"
       >
