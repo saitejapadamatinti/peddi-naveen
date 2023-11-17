@@ -342,7 +342,7 @@ const experience = {
         {
           title: "UI/UX Designer",
           company: "Stylosoft LLP",
-          company_url: "https://www.canada.ca/en/revenue-agency.html",
+          company_url: "https://www.stylosoftllp.com/",
           logo_path: "cra.png",
           duration: "May 2022 - Ongoing",
           location: "Hyderabad, Telangana",
